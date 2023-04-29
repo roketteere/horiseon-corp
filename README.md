@@ -12,6 +12,8 @@ special reader or device can knowingly navigate the companies home page.
 
 ![Horiseon Demo Image](assets/images/demo.png)
 
+## Deployed App (Live)
+[Deployed App](https://roketteere.github.io/horiseon-corp/)
 ## License
 
 MIT
